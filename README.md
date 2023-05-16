@@ -1,4 +1,4 @@
-# Patter-Process-Engineering-Class
+# Pattern-Process-Engineering-Labs
 A part of Course Materials for Advanced Lectures on Pattern Processing, Graduate School of Engineering, Nagasaki University, 2022 by SAKAI, Tomoya.
 
 
